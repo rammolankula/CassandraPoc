@@ -1,5 +1,4 @@
 # CassandraPoc
-Written CURD operations By using above requirements
 <pre>
 Requirements Java 8 and CassandraDB and spring
 Written CURD operations By using above requirements
